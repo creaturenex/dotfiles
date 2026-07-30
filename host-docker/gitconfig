@@ -1,3 +1,5 @@
 [user]
 	name = Oscar M Romero
 	email = creaturenex@gmail.com
+[core]
+	autocrlf = input
